@@ -1,4 +1,4 @@
-<img width="100px" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
+<img width="500px" height="500" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 <h1 align="center">Hi 👋, I'm Shruti Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
